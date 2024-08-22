@@ -1,0 +1,62 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Which word is a verb?",
+        "options": [
+            "Happy",
+            "Run",
+            "Chair",
+            "Blue"
+        ],
+        "correct": 1,
+        "explanation": "\"Run\" is an action, and verbs are words that show actions."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Choose the verb in the sentence: \"The dog barks loudly.\"",
+        "options": [
+            "Dog",
+            "Loudly",
+            "Barks",
+            "The"
+        ],
+        "correct": 2,
+        "explanation": "\"Barks\" is the action that the dog is doing, so it’s the verb."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Which word is not a verb?",
+        "options": [
+            "Eat",
+            "Jump",
+            "Tree",
+            "Sing"
+        ],
+        "correct": 2,
+        "explanation": "\"Tree\" is a noun (a thing), not an action, so it’s not a verb. Other options are verbs."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "In the sentence, \"She reads a book every night,\" what is the verb?",
+        "options": [
+            "She",
+            "Night",
+            "Book",
+            "Reads"
+        ],
+        "correct": 3,
+        "explanation": "\"Reads\" is the action that she does, making it the verb."
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Which sentence has a verb?",
+        "options": [
+            "The tall tree.",
+            "The birds sing in the morning.",
+            "The green grass.",
+            "The shiny new bike."
+        ],
+        "correct": 1,
+        "explanation": "\"Sing\" is the action the birds are doing, so it’s the verb in this sentence."
+    }
+]
